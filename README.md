@@ -6,6 +6,3 @@
 - C++
 - Java
 - Python
-
-### GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodmarkun)](https://github.com/rodmarkun/github-readme-stats)
