@@ -6,4 +6,4 @@
 - C++
 - Java
 - Python
-- GDScript (Gotot's game engine language!)
+- GDScript (Godot's game engine language!)
