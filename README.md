@@ -7,3 +7,5 @@
 - Java
 - Python
 - GDScript (Godot's game engine language!)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodmarkun)](https://github.com/anuraghazra/github-readme-stats)
