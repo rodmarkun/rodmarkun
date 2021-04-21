@@ -6,6 +6,6 @@
 - C++
 - Java
 - Python
-- GDScript (Godot's game engine language!)
+- GDScript
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodmarkun)](https://github.com/anuraghazra/github-readme-stats)
