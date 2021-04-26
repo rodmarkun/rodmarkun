@@ -7,5 +7,3 @@
 - Java
 - Python
 - GDScript
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodmarkun)](https://github.com/anuraghazra/github-readme-stats)
