@@ -1,10 +1,5 @@
-## Hi there, I'm Pablo! 👋
+# Pablo Rodríguez
 
-### I am a software enginner student from Spain studying at UEX, learning as much as I can!
-
-### 👨‍💻 Programming Languages I have learnt and/or tend to use:
-- C++
-- Java
-- Python
+Currently studying Software Engineering at UEX (Spain). Interested in devising a better problem-solving method for challenging tasks, and learning new technologies and tools if the need arises.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodmarkun)](https://github.com/anuraghazra/github-readme-stats)
