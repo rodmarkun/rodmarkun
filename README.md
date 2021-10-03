@@ -1,5 +1,5 @@
 # Pablo Rodríguez
 
-Currently studying Software Engineering at UEX (Spain). Interested in devising a better problem-solving method for challenging tasks and learning new technologies!
+Currently studying Software Engineering at UEX (Spain).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodmarkun)](https://github.com/anuraghazra/github-readme-stats)
